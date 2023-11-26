@@ -1,0 +1,14 @@
+5-6 String Iterators
+`````````````````````````````````
+- s.begin( ) -> Point index 0
+- s.end( ) -> point end of string
+- string iterator declaration
+- print string chars using iterator
+- use auto instead of declaring iterator
+
+5-7 String Input with Spaces
+````````````````````````````````````````````````
+- getline( cin, s)  // string with space
+- getchar() // take a unwanted char
+
+
