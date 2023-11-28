@@ -1,0 +1,2 @@
+sArray >> word;
+    cout << word;

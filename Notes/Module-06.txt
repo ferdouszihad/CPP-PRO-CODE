@@ -1,0 +1,46 @@
+6-5 Function Inside Class
+
+-  Create Function inside class
+- Access class variable from class function
+
+
+
+--------------------------------
+6-4 Reverse Word Printing using Stringstream
+
+- use of & for catching orginal string
+-print stringstream from function
+-reverse print stringstream from function
+----------------------------------
+6-3 Range Based For Loop in String
+
+for(char ch:str)  cout << ch << endl;
+
+
+----------------------------------
+6-2 Sort String using sort() function
+
+- sort ( s.begin() , s.end() )
+
+
+
+
+----------------------------------
+6-1 String Constructor
+
+- declaring string using = 
+- declear as a object
+string  constructor declaration
+ 
+system-1
+string s("Hello")
+
+system-2
+string s("Hello",1)
+
+System-3
+string s(str,1)
+
+System-4
+string s(26,'A')
+
