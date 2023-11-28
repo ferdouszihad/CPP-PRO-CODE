@@ -1,5 +1,6 @@
-Ferdous
-+
-Emu
-=
-Love
+15 12
+sum = 27
+sub = 3
+mul = 180
+div = 1
+144
